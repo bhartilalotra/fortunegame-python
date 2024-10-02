@@ -1,4 +1,4 @@
-#GUESS THE FORTUNE DAY GAME
+#GUESS THE FORTUNE DAY GAME:
 
 print("....................PANASONIC COMPANY.......................")
 #details of the employee.
